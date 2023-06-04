@@ -5,7 +5,7 @@
 顾名思义，就只是把当前的项目全部下载到本地(打开后是无法进行同步与上传的)<br>
 <img src="https://github.com/Fall188/test/assets/117801884/57343178-33f8-48c8-9561-7051c87d2663" width="600px"><br>
 ### 克隆
-- VSCode
+#### VSCode
   在侧栏中的第三个有个叫源代码管理的,里边有个克隆仓库<br>
   <img src="https://github.com/Fall188/test/assets/117801884/5bcbfdbd-4e00-4b2a-ab58-f903aea1af0e" width="600px"><br><br>
   当点击克隆仓库后,会弹出一些选项(我这就只有一个),点击 从Github克隆<br>
