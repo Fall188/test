@@ -16,6 +16,8 @@
 点击后它会让你选择存储的路径,选好后在点击右下角的<br>
 <img src="https://github.com/Fall188/test/assets/117801884/19341a62-ab42-46f9-999f-66de1c4ebd4b" width="600px"><br><br>
 然后等待克隆完成...<br>
-![image](https://github.com/Fall188/test/assets/117801884/1ab5096d-5a35-453d-8aac-de718a7ff9c1)
-这是克隆完成的样式
-![image](https://github.com/Fall188/test/assets/117801884/bfdbfc6f-e243-4fa1-a552-49cb32ca895e)
+<img src="https://github.com/Fall188/test/assets/117801884/1ab5096d-5a35-453d-8aac-de718a7ff9c1" width="600px"><br><br>
+这是克隆完成的样式<br>
+<img src="https://github.com/Fall188/test/assets/117801884/bfdbfc6f-e243-4fa1-a552-49cb32ca895e" width="600px"><br><br>
+打开 源代码管理 长这样就算是克隆完成了<br>
+<img src="https://github.com/Fall188/test/assets/117801884/4f109b0f-c31b-457a-93ba-989b73eb8ec0" width="600px"><br><br>
