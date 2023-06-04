@@ -1,8 +1,13 @@
-<div align="center">
-<h1>教程</h1>
-<h3>交你如何使用Github的基础功能</h3>
-</div>
-## 下载
-最最最基础的,下载仓库
-*应该是下载当前的全部代码*
-<p><img width='30%' src="https://github.com/Fall188/test/assets/117801884/5b726ea4-c82f-4f98-aac2-b4cf1de59aeb"></p>
+# 教程
+## 如何使用Github
+如下载，克隆，上传
+### 下载
+顾名思义，就只是把当前的项目全部下载到本地(打开后是无法进行同步与上传的)
+![image](https://github.com/Fall188/test/assets/117801884/57343178-33f8-48c8-9561-7051c87d2663)
+### 克隆
+这里用VSCode举例,在侧栏中的第三个有个叫源代码管理的,里边有个克隆仓库
+![image](https://github.com/Fall188/test/assets/117801884/5bcbfdbd-4e00-4b2a-ab58-f903aea1af0e)
+当点击克隆仓库后,会弹出一些选项(我这就只有一个),点击 从Github克隆 ,
+![image](https://github.com/Fall188/test/assets/117801884/93f91c81-e0f1-4b03-9b69-e6ba998196e3)
+再从你想克隆的仓库获取链接,像以下图片中点击就复制到链接了
+![image](https://github.com/Fall188/test/assets/117801884/3e978aee-b002-4f74-ae57-f96c4b723bd2)
