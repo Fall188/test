@@ -15,4 +15,7 @@
 <img src="https://github.com/Fall188/test/assets/117801884/f60ae029-e1c2-4f60-aed6-0461708dfcbb" width="600px"><br><br>
 点击后它会让你选择存储的路径,选好后在点击右下角的<br>
 <img src="https://github.com/Fall188/test/assets/117801884/19341a62-ab42-46f9-999f-66de1c4ebd4b" width="600px"><br><br>
-# 未完成
+然后等待克隆完成...<br>
+![image](https://github.com/Fall188/test/assets/117801884/1ab5096d-5a35-453d-8aac-de718a7ff9c1)
+这是克隆完成的样式
+![image](https://github.com/Fall188/test/assets/117801884/bfdbfc6f-e243-4fa1-a552-49cb32ca895e)
