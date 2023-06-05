@@ -44,14 +44,15 @@
     <hr>
   - 再点击右下角的`克隆`，等待...<br>
     如图<br>
-    <img src="#" width="600px"><br>
+    <img src="#" width="600px">
     <hr>
   - 最后再选择如何打开就完成了!
-    <img src="#" width="600px"><br>
+    <img src="#" width="600px">
 <hr>
 
 ### 提交 与 拉取 (上传 与 同步)
   #### VSCode
   - 当你在某些文件做过修改时，左侧的`源代码管理`就会有一个小点点<br>
     里面的内容如图<br>
-    <img src="#" width="600px"><br>
+    <img src="#" width="600px"><br><hr>
+  - 里边的提交就相当于把你修改过的文件确定更改了，但是还并未上传到仓库中
